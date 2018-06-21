@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "optimisation", "optimisation.ssmssqlproj", "{3CBD6F28-FDAC-486A-A0BF-0E0B8A7DD593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBD6F28-FDAC-486A-A0BF-0E0B8A7DD593}.Default|Default.ActiveCfg = Default
+		{6E1EE062-DA6A-4DF9-A8E2-6D6C75B90E77}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
